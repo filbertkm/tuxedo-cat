@@ -86,6 +86,11 @@ a {
   margin-right: 1.8em;
 }
 
+.screen-reader-text {
+  position: absolute !important;
+  left: -999em;
+}
+
 #masthead {
   border-bottom: 1px solid #071831;
 }
